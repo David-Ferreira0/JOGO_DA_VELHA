@@ -25,7 +25,7 @@ void mostrarTab(char tab[3][3]) {
 
 int menu() {
     int escolha;
-    printf("_________________________\n");
+    printf("_#________________________\n");
     printf("_______JOGO DA VELHA___\n");
     printf("________________________\n");
     printf("______MENU DE OPCOES_____\n");
